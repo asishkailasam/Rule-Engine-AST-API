@@ -2,6 +2,8 @@
 
 This guide will walk you through the steps to set up and test the Rule Engine API using Flask and Thunder Client in Visual Studio Code. The API allows you to create, combine, and evaluate rules against predefined data.
 
+#Installation video and its full working presentation : https://www.youtube.com/watch?v=OeHsb1jFuSg 
+
 ## Prerequisites
 Before you begin, ensure you have the following installed:
   *Python (version 3.6 or higher)
