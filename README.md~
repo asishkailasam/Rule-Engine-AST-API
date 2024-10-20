@@ -1,0 +1,25 @@
+#Rule Engine API with Flask - README
+
+This guide will walk you through the steps to set up and test the Rule Engine API using Flask and Thunder Client in Visual Studio Code. The API allows you to create, combine, and evaluate rules against predefined data.
+
+##Prerequisites
+Before you begin, ensure you have the following installed:
+   *Python (version 3.6 or higher)
+   *Flask (install using pip install Flask)
+   *Thunder Client (VS Code Extension for API testing)
+   *Visual Studio Code
+##Steps to Run the Flask API
+###1. Setup the Project
+    Ensure that you have your Flask project directory set up properly. Your app.py file should be located at C:/Users/Acer/Desktop/Django Projects/Flask/App.py.
+###2. Running the Flask API
+    1.Open a terminal in your project directory.
+    2.Run the Flask app using the following command:
+    python "C:/Users/Acer/Desktop/Django Projects/Flask/App.py"
+###3.Once the Flask app is running, you should see the following output in the terminal:
+   * Serving Flask app 'App'
+   * Debug mode: off
+   * Running on http://127.0.0.1:5000/
+Your API is now running locally on port 5000.
+
+
+
